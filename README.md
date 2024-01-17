@@ -29,13 +29,14 @@ Here are some ideas to get you started:
 <h5 align="center"> ▪️ AI 감정분석 기반 책 추천 서비스, 북이음 </h5> 
 <h5 align="center"> ▪️ 주식 자동 거래 서비스 </h5>
 <h5 align="center"> ▪️ 이러닝캠퍼스 UI 개선 </h5>
+<br/>
 
 ## 🌈 Dev's Log & Blog 🌈
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@h_zee)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/h_zee_)
+<br/><br/><br/>
 
 ## 🛠 Tech Stacks 🛠
-
 ### ✨Front-End Skills✨
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
