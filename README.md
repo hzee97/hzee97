@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&text=&animation=twinkling&height=150&)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&fontAlign=500&weight=500&size=45&duration=4000&pause=3&color=000000&multiline=true&repeat=true&width=1000&height=100&section=header&lines=Hyeonji's+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&fontAlign=500&center=true&vCenter=true&weight=500&size=45&duration=4000&pause=3&color=000000&multiline=true&repeat=true&width=1000&height=100&section=header&lines=Hyeonji's+GitHub!)](https://git.io/typing-svg)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hzee)](https://solved.ac/hzee/)
 
