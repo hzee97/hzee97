@@ -20,58 +20,62 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h3 align="center"> 꾸준히 성장하는 개발자, 장현지입니다. 🏃‍♀️ </h3>
-</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hzee)](https://solved.ac/hzee/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hzee&theme=warm)
+  
+## 🌱 Project 🌱
+<h5 align="center"> ▪️ AI 기반 중개플랫폼, 화물타고 </h5>
+<h5 align="center"> ▪️ AI 감정분석 기반 책 추천 서비스, 북이음 </h5> 
+<h5 align="center"> ▪️ 주식 자동 거래 서비스 </h5>
+<h5 align="center"> ▪️ 이러닝캠퍼스 UI 개선 </h5>
 
-<div align="center">
-
-## 🌱 Timeline 🌱
-
-## 🌈 Blog 🌈
+## 🌈 Dev's Log & Blog 🌈
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@h_zee)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/h_zee_)
 
 ## 🛠 Tech Stacks 🛠
 
-### Front-End Skills
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+### ✨Front-End Skills✨
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/>
 
-### Back-End Skills
+### ✨Back-End Skills✨
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
 
-### DataBase Skills
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white">
+### ✨DataBase Skills✨
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
 
-### AI Skills
-![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+### ✨AI Skills✨
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat&logo=Scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
 
-### Server Skills
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
+### ✨Server Skills✨
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazon aws&logoColor=white"> 
 
-### Development Tools
+### ✨Development Tools✨
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white">
 
-### Version Control
+### ✨Version Control✨
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 
-### Communication
+### ✨Communication✨
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
 
 </div>
 
