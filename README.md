@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white">
