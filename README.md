@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🌈 Dev's Log & Blog 🌈
+<h5 align="center"> (링크 참고) </h5>
+
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@h_zee)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/h_zee_)
 <br/><br/><br/>
