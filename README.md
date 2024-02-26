@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hzee&theme=warm)
   
 ## 🌱 Project 🌱
-<h5 align="center"> ▪️ AI 기반 중개플랫폼, 화물타고 (🏆최우수상 수상) </h5>
+<h5 align="center"> ▪️ AI 기반 중개플랫폼, 화물타고 (🏆KT 빅프 최우수상 수상) </h5>
 <h5 align="center"> ▪️ AI 감정분석 기반 책 추천 서비스, 북이음 </h5> 
 <h5 align="center"> ▪️ 주식 자동 거래 서비스 </h5>
 <h5 align="center"> ▪️ 이러닝캠퍼스 UI 개선 </h5>
